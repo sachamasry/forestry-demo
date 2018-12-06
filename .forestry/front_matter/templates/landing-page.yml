@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- welcome-to-the-pleasure-dome.md
 - index.md
