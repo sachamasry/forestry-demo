@@ -9,5 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
-- _posts/the-quick-brown-fox.md
+- _posts/2018-12-06-the-quick-brown-fox.md
 - _posts/2018-12-06-the-shn-announces-new-protocol-today.html
