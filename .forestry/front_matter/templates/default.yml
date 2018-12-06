@@ -25,4 +25,5 @@ fields:
   hidden: true
   default: post
 pages:
+- hello-world.md
 - when-things-go-wrong.md
